@@ -1,0 +1,11 @@
+#burst-8 {
+  background: red;
+  width: 80px;
+  height: 80px;
+  position: relative;
+  text-align: center;
+  -webkit-transform: rotate(20deg);
+     -moz-transform: rotate(20deg);
+      -ms-transform: rotate(20deg);
+       -o-transform: rotate(20eg);
+}
